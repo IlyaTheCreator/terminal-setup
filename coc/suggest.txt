@@ -1,0 +1,8 @@
+transi|transition|css
+trans|transform|css
+cur|cursor|css
+place|place-content|css
+sans|sans-serif|css
+background|background-color|css
+Paper|PaperColor|around
+paper|papercolor|around
